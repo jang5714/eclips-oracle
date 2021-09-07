@@ -1,2 +1,5 @@
 1630912467683	Delete element
 1630912858266	Delete element
+1630993354929	Move 'spring' to 'META-INF'
+1630994679292	Move 'servlet-context.xml' to 'spring'
+1630994684799	Delete element
